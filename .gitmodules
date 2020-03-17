@@ -1,3 +1,5 @@
-[submodule "Library-PHP-Core"]
-	path = Library-PHP-Core
-	url = git@github.com:bayudwiyansatria/Library-PHP-Core.git
+[submodule "library-php-core"]
+	path = library-php-core
+	url = git@github.com:bayudwiyansatria/library-php-core.git
+	branch = master
+	master = master
